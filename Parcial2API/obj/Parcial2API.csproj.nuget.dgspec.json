@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UFG\\Downloads\\Parcial2API\\Parcial2API\\Parcial2API.csproj": {}
+    "C:\\Users\\UFG\\Desktop\\Parcial 2\\parcial2-web\\Parcial2API\\Parcial2API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UFG\\Downloads\\Parcial2API\\Parcial2API\\Parcial2API.csproj": {
+    "C:\\Users\\UFG\\Desktop\\Parcial 2\\parcial2-web\\Parcial2API\\Parcial2API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UFG\\Downloads\\Parcial2API\\Parcial2API\\Parcial2API.csproj",
+        "projectUniqueName": "C:\\Users\\UFG\\Desktop\\Parcial 2\\parcial2-web\\Parcial2API\\Parcial2API.csproj",
         "projectName": "Parcial2API",
-        "projectPath": "C:\\Users\\UFG\\Downloads\\Parcial2API\\Parcial2API\\Parcial2API.csproj",
+        "projectPath": "C:\\Users\\UFG\\Desktop\\Parcial 2\\parcial2-web\\Parcial2API\\Parcial2API.csproj",
         "packagesPath": "C:\\Users\\UFG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UFG\\Downloads\\Parcial2API\\Parcial2API\\obj\\",
+        "outputPath": "C:\\Users\\UFG\\Desktop\\Parcial 2\\parcial2-web\\Parcial2API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

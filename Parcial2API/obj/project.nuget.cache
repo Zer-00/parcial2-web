@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YKpqA9qyA1EFgFtTRpzsRVGeWbgUdxbPhLBkuHTYnmyKilNIn/Xf/QBO1okWH4semd1COhbMYakU9QGsQUk2Vw==",
+  "dgSpecHash": "FT70ejGqtC1NFo/xJU1PEhreAtzA22nBf8ewOposUN+xI9ZbSMd+3GubfiARf1pkTFtBCvN9GNC8PpuRuWqpEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UFG\\Downloads\\Parcial2API\\Parcial2API\\Parcial2API.csproj",
+  "projectFilePath": "C:\\Users\\UFG\\Desktop\\Parcial 2\\parcial2-web\\Parcial2API\\Parcial2API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UFG\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\UFG\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
